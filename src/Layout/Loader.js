@@ -1,8 +1,5 @@
-import React from "react";
 import {
   BallTriangle,
-  InfinitySpin,
-  Vortex,
   // Triangle,
 } from "react-loader-spinner";
 
